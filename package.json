@@ -10,6 +10,8 @@
     "knex": "knex"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
     "knex": "^0.95.11",
     "mysql": "^2.18.1",
     "next": "11.1.2",
